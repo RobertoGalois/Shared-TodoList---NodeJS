@@ -1,0 +1,12 @@
+{
+    "name": "todolist-a-plusieurs",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "~4.17.1",
+        "socket.io": "~2.2.0",
+        "http": "~0.0.0",
+        "ent": "~2.2.0"
+    },
+    "author": "gnomeWarthas",
+    "description": "gestionnaire de todo list partagée"
+}
